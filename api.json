@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "blacklist": [
-    { "id": "1190272723218345987", "raison": "test" },
+    { "id": "1190272723218345", "raison": "test" },
     { "ip": "192.168.1.10", "raison": "Spammer" }
   ]
 }
